@@ -1,4 +1,4 @@
-# SberCraft ![Питонист](pythonist.png)
+# ![Питонист-старовер](pythonist0.png) SberCraft ![Питонист-новобрядец](pythonist.png)
 
 ![Сбер возьми на работу!](SberCraft.png)
 
